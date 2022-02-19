@@ -287,7 +287,9 @@ section {
 }
 
 .footer-distributed .footer-icons {
-    margin-top: 25px;
+	margin-left: 1.6em;
+  margin-top: 15px;
+	
 }
 
 /* .footer-icons .fa-facebook{
@@ -307,8 +309,6 @@ section {
     color: #ffffff;
     text-align: center;
     line-height: 35px;
-    margin-right: 3px;
-    margin-bottom: 5px;
 }
 
 /* If you don't want the footer to be responsive, remove these media queries */
